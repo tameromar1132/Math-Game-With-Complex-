@@ -1,0 +1,17 @@
+﻿  Math with Complex.cpp
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(124,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(135,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(137,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(146,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(148,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(154,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(155,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(156,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(157,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(160,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(161,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(163,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(165,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(183,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\Math with Complex\Math with Complex.cpp(184,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Math with Complex.vcxproj -> C:\Users\tamer\OneDrive\Desktop\Programing\Visual\cpp\Math with Complex\x64\Debug\Math with Complex.exe
